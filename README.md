@@ -404,7 +404,7 @@ Access the admin dashboard by:
 1. Clone the repository
 
 
-git clone https://github.com/YOUR-USERNAME/wizklub-chatbot.git
+git clone https://github.com/rachanabn20/wizklub-chatbot.git
 cd wizklub-chatbot
 
 2. Install dependencies
